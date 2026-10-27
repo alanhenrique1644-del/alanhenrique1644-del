@@ -1,15 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111111,50:292929,100:FF3C5F&text=Alan%20Henrique&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Front-end%20Developer%20%7C%20DS%20Student&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080808,35:1A080D,70:70152B,100:FF304F&text=Alan%20Henrique&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20DS%20STUDENT&descSize=14&descAlignY=60&animation=fadeIn&stroke=FF304F&strokeWidth=1" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF3C5F&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Creating+modern+interfaces;Exploring+IoT+and+web+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF4968&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Creating+modern+interfaces;Exploring+IoT+and+web+development)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=zinhodelta3-arch.zinhodelta3-arch&left_color=111111&right_color=FF3C5F)](https://github.com/zinhodelta3-arch)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=zinhodelta3-arch.zinhodelta3-arch&left_color=111111&right_color=FF304F)](https://github.com/zinhodelta3-arch)
 
 </div>
 
@@ -60,7 +60,7 @@ Atualmente, desenvolvo projetos próprios para aprimorar minhas habilidades, con
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Base_UI-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tweakcn-FF3C5F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tweakcn-FF304F?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Tools
@@ -98,7 +98,7 @@ Uma plataforma de cinema e streaming desenvolvida para explorar interfaces moder
 - Exploração de design systems.
 - Experiências de navegação e reprodução de conteúdo.
 
-[![CineAstra](https://img.shields.io/badge/Explore-CineAstra-FF3C5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinhodelta3-arch/CineAstra)
+[![CineAstra](https://img.shields.io/badge/Explore-CineAstra-FF304F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinhodelta3-arch/CineAstra)
 
 ---
 
@@ -106,23 +106,29 @@ Uma plataforma de cinema e streaming desenvolvida para explorar interfaces moder
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zinhodelta3-arch&show_icons=true&theme=transparent&hide_border=true&title_color=FF3C5F&icon_color=FF3C5F&text_color=AAAAAA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zinhodelta3-arch&show_icons=true&theme=transparent&hide_border=true&title_color=FF4968&icon_color=FF304F&text_color=AAAAAA" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinhodelta3-arch&layout=compact&theme=transparent&hide_border=true&title_color=FF3C5F&text_color=AAAAAA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinhodelta3-arch&layout=compact&theme=transparent&hide_border=true&title_color=FF4968&text_color=AAAAAA" />
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=zinhodelta3-arch&theme=transparent&hide_border=true&ring=FF3C5F&fire=FF3C5F&currStreakLabel=FF3C5F&sideLabels=AAAAAA&dates=888888" />
+<img width="95%" src="https://streak-stats.demolab.com?user=zinhodelta3-arch&theme=transparent&hide_border=true&ring=FF304F&fire=FF4968&currStreakLabel=FF4968&sideLabels=AAAAAA&dates=888888" />
 
 </div>
 
 ---
 
-## `> contribution snake`
+## `> AI tools`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zinhodelta3-arch/zinhodelta3-arch/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=74AA9C" />
+<img src="https://img.shields.io/badge/Google%20Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" />
+<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=claude&logoColor=D97757" />
+
+<br/><br/>
+
+Utilizo ferramentas de inteligência artificial como apoio ao aprendizado, à programação, à resolução de problemas e ao desenvolvimento de projetos.
 
 </div>
 
@@ -144,6 +150,6 @@ Estou aberto a oportunidades de estágio, jovem aprendiz e projetos relacionados
 
 *"Building interfaces, learning every day, creating with purpose."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:FF3C5F,100:111111" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF304F,45:70152B,100:080808" />
 
 </div>
