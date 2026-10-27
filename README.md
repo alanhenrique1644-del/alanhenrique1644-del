@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF3C5F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end;React+%7C+Next.js+%7C+Tailwind+CSS;Construindo+interfaces+modernas;Explorando+IoT+e+desenvolvimento+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=FF3C5F&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Creating+modern+interfaces;Exploring+IoT+and+web+development)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,31 +21,30 @@
 const alan = {
   role: "Front-end Developer",
   education: "Técnico em Desenvolvimento de Sistemas",
-  location: "Brasil 🇧🇷",
+  location: "Brazil 🇧🇷",
 
   focus: [
-    "Desenvolvimento Front-end",
-    "Interfaces responsivas",
-    "Experiência do usuário",
-    "Desenvolvimento Web",
+    "Front-end Development",
+    "Responsive Interfaces",
+    "UI Engineering",
+    "Design Systems",
     "IoT"
   ],
 
-  currentlyLearning: [
+  technologies: [
     "React",
     "Next.js",
     "JavaScript",
-    "APIs REST",
-    "Banco de dados"
+    "Tailwind CSS"
   ],
 
-  goal: "Conquistar minha primeira oportunidade na área de tecnologia"
+  goal: "Grow as a developer and join a tech team"
 };
 ```
 
-Sou estudante de Desenvolvimento de Sistemas e desenvolvedor com foco em Front-end. Gosto de transformar ideias em interfaces modernas, funcionais e responsivas, sempre buscando melhorar a organização do código e a experiência do usuário.
+Sou estudante de Desenvolvimento de Sistemas com foco em Front-end. Gosto de criar interfaces modernas, responsivas e bem estruturadas, explorando novas possibilidades de design, componentes reutilizáveis e experiências de usuário.
 
-Atualmente, estou desenvolvendo projetos próprios para evoluir minhas habilidades e construir meu portfólio, com interesse em oportunidades de estágio e jovem aprendiz em tecnologia.
+Atualmente, desenvolvo projetos próprios para aprimorar minhas habilidades, construir meu portfólio e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ## `> tech stack`
 
@@ -64,18 +63,18 @@ Atualmente, estou desenvolvendo projetos próprios para evoluir minhas habilidad
   <img src="https://img.shields.io/badge/Tweakcn-FF3C5F?style=for-the-badge&logoColor=white" />
 </div>
 
-### Back-end, banco de dados & ferramentas
+### Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </div>
 
-### Outras áreas de interesse
+### Areas of interest
 
+- **Front-end Development:** interfaces responsivas e acessíveis.
+- **UI Engineering:** componentes reutilizáveis e design systems.
+- **Creative Development:** temas, animações e experiências visuais.
 - **IoT:** integração entre software e dispositivos físicos.
-- **APIs REST:** comunicação entre aplicações e serviços.
-- **UI Engineering:** componentes reutilizáveis, design systems e interfaces consistentes.
-- **Full-stack:** ampliar meus conhecimentos de back-end para desenvolver aplicações completas.
 
 ---
 
@@ -83,22 +82,23 @@ Atualmente, estou desenvolvendo projetos próprios para evoluir minhas habilidad
 
 ### 🎬 CineAstra
 
-Um projeto de plataforma de cinema e streaming no qual trabalho com interfaces, componentes reutilizáveis e personalização visual.
+Uma plataforma de cinema e streaming desenvolvida para explorar interfaces modernas, personalização visual e experiências interativas.
 
-**Tecnologias utilizadas:**
-- Next.js e React
+**Tech stack:**
+- Next.js
+- React
 - JavaScript
 - Tailwind CSS v4
-- shadcn/ui com Base UI
+- shadcn/ui + Base UI
 - Tweakcn
 
-**O que exploro no projeto:**
-- Criação de interfaces modernas e responsivas.
-- Desenvolvimento de temas visuais personalizados.
-- Componentização e organização de páginas.
+**Highlights:**
+- Interfaces responsivas e componentes reutilizáveis.
+- Temas visuais personalizados.
+- Exploração de design systems.
 - Experiências de navegação e reprodução de conteúdo.
 
-[![CineAstra](https://img.shields.io/badge/Ver%20repositório-CineAstra-FF3C5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinhodelta3-arch/CineAstra)
+[![CineAstra](https://img.shields.io/badge/Explore-CineAstra-FF3C5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinhodelta3-arch/CineAstra)
 
 ---
 
@@ -118,14 +118,23 @@ Um projeto de plataforma de cinema e streaming no qual trabalho com interfaces, 
 
 ---
 
+## `> contribution snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zinhodelta3-arch/zinhodelta3-arch/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+---
+
 ## `> let's connect`
 
-Estou aberto a oportunidades de estágio, jovem aprendiz e projetos relacionados a desenvolvimento web e tecnologia.
+Estou aberto a oportunidades de estágio, jovem aprendiz e projetos relacionados ao desenvolvimento Front-end.
 
 <div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinhodelta3-arch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
